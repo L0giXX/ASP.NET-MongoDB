@@ -1,10 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>ASP.NET_MongoDB</RootNamespace>
+    <UserSecretsId>c2d426f7-770a-4bfe-bc6e-5a5b292a473f</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
